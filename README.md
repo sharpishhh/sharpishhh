@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing DSA in Python](https://github.com/sharpishhh/Learning-DSA)
-  - [Learning Arrays and Logic Python](https://github.com/sharpishhh/LABURL)
+  - [Learning Arrays and Logic Python](https://github.com/sharpishhh/Learning-Logic-and-Arrays)
   - [Hello World!](https://github.com/sharpishhh/LABURL)
 
 <h2> Certifications</h2>
