@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/sharpishhh/LABURL)
+  - [Practicing DSA in Python](https://github.com/sharpishhh/Learning-DSA)
   - [Active Directory Home Lab](https://github.com/sharpishhh/LABURL)
   - [Hello World!](https://github.com/sharpishhh/LABURL)
 
