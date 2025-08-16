@@ -1,35 +1,53 @@
-<h1>Hi, I'm Sarah! <br/><a href="https://github.com/sharpishhh">Programmer</a>, <a href="https://www.linkedin.com/in/sarah-sharp-b3923274/">CIS Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> --!>
+<h1 align="center">Hi, I'm Sarah!</h1>
+<p align="center"> 
+  Software Developer · Austin, TX · US Army Veteran </p> 
+  
+<h2>About</h2> 
+Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation in data structures and algorithms while shipping small, useful tools. I likee backends, testable code, and a clear README.<br/>
+&nbsp;<br/>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- Now: daily DSA practice and three spotlight projects (Algorithms Bench, SQL mini-capstone, Web + AI mini-app)
+- Target roles: Software Engineer (backend/platform), Internal Tool
+- Contact: sarah.sharpish@gmail.com • <a href="https://www.linkedin.com/in/sarah-sharp-b3923274/">LinkedIn</a>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DSA in Python](https://github.com/sharpishhh/Learning-DSA)
-  - [Learning Arrays and Logic Python](https://github.com/sharpishhh/Learning-Logic-and-Arrays)
-  - [Hello World!](https://github.com/sharpishhh/LABURL)
+<h2>Tech:</h2>
 
-<h2> Certifications</h2>
+
+### ✅ Current Skills
+💻 Python, SQL, C#  
+📊 R, Pandas, NumPy  
+
+### 📚 Learning Now
+📘 Data Structures & Algorithms (Python)  
+🔧 Git & GitHub (version control, repos, branching)  
+☁️ Azure (fundamentals & cloud basics)
+
+### 🚀 Next Up
+🐳 Docker  
+🗄️ PostgreSQL  
+⚡ FastAPI / Flask (backend frameworks)
+
+## Highlights
+- ### Data Structures and Algorithms Practice </b>
+  - [Algorithms & DS Bench](https://github.com/sharpishhh/Learning-DSA) — curated problems with approaches, complexity notes, and tests
+  - [Logic & Arrays Practice](https://github.com/sharpishhh/Learning-Logic-and-Arrays) — warmups and patterns in Python  
+  - [Hello World Lab](https://github.com/sharpishhh/LABURL) — first Git/GitHub steps and CI experiments  
+
+<!-- <h2> Certifications</h2>
 
 - <b>Udemy</b>
-  - [Udemy Cert 1](URL)
+  - [Udemy Cert 1](URL) -->
  
   
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SarahSharp | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="SarahSharp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SarahSharp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[discord]: https://www.discordapp.com/users/506467962027376642
+[instagram]: https://www.instagram.com/skruex
 [linkedin]: https://www.linkedin.com/in/sarah-sharp-b3923274/
 
 
