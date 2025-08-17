@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Sarah!</h1>
+<div align="center">
+  <img
+    alt="Hi, I'm Sarah!"
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I%27m%20Sarah!&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4&animation=fadeIn&fontAlign=50&fontAlignY=40"
+  />
+</div>
+
 <p align="center"> 
   Software Developer · Austin, TX · US Army Veteran </p> 
   
 <h2>About</h2> 
-Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation in data structures and algorithms while shipping small, useful tools. I likee backends, testable code, and a clear README.<br/>
+Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation in data structures and algorithms while shipping small, useful tools. I like backends, testable code, and a clear README.<br/>
 &nbsp;<br/>
 
 - Now: daily DSA practice and three spotlight projects (Algorithms Bench, SQL mini-capstone, Web + AI mini-app)
