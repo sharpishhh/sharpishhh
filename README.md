@@ -28,7 +28,7 @@ Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation 
         </p>
         </br></br>
 📊 R, Pandas, NumPy</br></br>
-        <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=80 width=80 hspace=10 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height=80 width=80 hspace=10 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  height=80 width=80 /> </p>
+        <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=80 width=80 hspace=10 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  height=80 width=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height=80 width=80 hspace=10 /> </p>
         </br></br>
 
 ### 📚 Learning Now
