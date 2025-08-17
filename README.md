@@ -20,11 +20,19 @@ Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation 
 
 
 ### ✅ Current Skills
-💻 Python, SQL, C#  
-📊 R, Pandas, NumPy  
+💻 Python, SQL, C#</br></br>
+        <p align="left">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=80 width=80  hspace=10/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height=80 width=80 hspace=10/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=80 width=80  />  
+        </p>
+        </br></br>
+📊 R, Pandas, NumPy</br></br>
+        <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=80 width=80 hspace=10 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height=80 width=80 hspace=10 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  height=80 width=80 /> </p>
+        </br></br>
 
 ### 📚 Learning Now
-📘 Data Structures & Algorithms (Python)  
+📘 Data Structures & Algorithms (Python)</br>
 🔧 Git & GitHub (version control, repos, branching)  
 ☁️ Azure (fundamentals & cloud basics)
 
