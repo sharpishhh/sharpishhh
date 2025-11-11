@@ -45,7 +45,7 @@ Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation 
 - ### Data Structures and Algorithms Practice </b>
   - [Algorithms & DS Bench](https://github.com/sharpishhh/Learning-DSA) — curated problems with approaches, complexity notes, and tests
   - [Logic & Arrays Practice](https://github.com/sharpishhh/Learning-Logic-and-Arrays) — warmups and patterns in Python  
-  - [Hello World Lab](https://github.com/sharpishhh/LABURL) — first Git/GitHub steps and CI experiments  
+  - [Spotify Track Exporter Project](https://github.com/sharpishhh/Spotify_Track_Exporter) — program that exports track info from Spotify playlists to CSV file   
 
 <!-- <h2> Certifications</h2>
 
