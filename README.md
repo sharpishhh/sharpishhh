@@ -14,7 +14,7 @@ Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation 
 
 - Now: daily DSA practice and three spotlight projects (Algorithms Bench, SQL mini-capstone, Web + AI mini-app)
 - Target roles: Software Engineer (backend/platform), Internal Tool
-- Contact: sarah.sharpish@gmail.com • <a href="https://www.linkedin.com/in/sarah-sharp-b3923274/">LinkedIn</a>
+- Contact: sarah.sharpish@gmail.com • <a href="https://www.linkedin.com/in/sarah-sharp-ish/">LinkedIn</a>
 
 <h2>Tech:</h2>
 
