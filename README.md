@@ -46,7 +46,7 @@ Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation 
 
 ## Highlights
 ### Spotlight Projects
-  - [Spotify Track Exporter Project](https://github.com/sharpishhh/Spotify_Track_Exporter) — program that exports track info from Spotify playlists to CSV file 
+  - [Spotify Track Exporter Project](https://github.com/sharpishhh/spotify-track-exporter) — program that exports track info from Spotify playlists to CSV file 
   - [Algorithms & DS Bench](https://github.com/sharpishhh/Learning-DSA) — curated problems with approaches, complexity notes, and tests
   - [Logic & Arrays Practice](https://github.com/sharpishhh/Learning-Logic-and-Arrays) — warmups and patterns in Python  
   
