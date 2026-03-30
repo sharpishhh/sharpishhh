@@ -6,10 +6,13 @@
 </div>
 
 <p align="center"> 
-  Software Developer · Austin, TX · US Army Veteran </p> 
+  Software Developer & Cybersecurity Student · Austin, TX · US Army Veteran </p> 
   
 <h2>About</h2> 
-Recent BBA in CIS (Summa Cum Laude). I'm currently building a strong foundation in data structures and algorithms while shipping small, useful tools. I like backend development, testable code, and a clear README.<br/>
+Recent BBA in CIS with a Software Development concentration (Summa Cum Laude). 
+Transitioning into cybersecurity and DevSecOps with a focus on cloud environments 
+and security tooling. US Army veteran with a background in Python, REST APIs, and 
+independent project development.<br/>
 &nbsp;<br/>
 
 - Now: daily DSA practice and three spotlight projects (Algorithms Bench, SQL mini-capstone, Web + AI mini-app)
