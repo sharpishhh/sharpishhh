@@ -15,8 +15,8 @@ and security tooling. US Army veteran with a background in Python, REST APIs, an
 independent project development.<br/>
 &nbsp;<br/>
 
-- Now: daily DSA practice and three spotlight projects (Algorithms Bench, SQL mini-capstone, Web + AI mini-app)
-- Target roles: Software Engineer (backend/platform), Internal Tool
+- Now: CompTIA A+ exam prep, building cybersecurity portfolio projects, and interviewing for DevSecOps roles
+- Target roles: DevSecOps Engineer, Security Analyst, Cloud Security
 - Contact: sarah.sharpish@gmail.com • <a href="https://www.linkedin.com/in/sarah-sharp-ish/">LinkedIn</a>
 
 <h2>Tech:</h2>
@@ -24,41 +24,31 @@ independent project development.<br/>
 
 ### ✅ Current Skills
 
-💻 Python, MySQL, C#
+💻 Python, SQL, Git, Linux, REST APIs, JavaScript (learning)
 <br/>
         <p align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=80 width=80  hspace=10/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" hspace="10"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=80 width=80  />  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height=80 width=80 hspace=10/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80 width=80 hspace=10/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 width=80 hspace=10/>
         </p>
-        
-📊 Secondary Skills
-*(Used in past coursework, not main focus)*
-<br/>
-        <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=60 width=60 hspace=10 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  height=60 width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height=60 width=60 hspace=10 /> </p>
+      
 
 ### 📚 Learning Now
-📘 Data Structures & Algorithms (Python)</br>
-🔧 Git & GitHub (version control, repos, branching)  
-☁️ Azure (fundamentals & cloud basics)
+🔐 CompTIA A+ (exam imminent)<br/>
+🛡️ CompTIA Security+ (next)<br/>
+☁️ Cloud security fundamentals<br/>
+🔧 JavaScript / React (active)<br/>
 
 ### 🚀 Next Up
-🐳 Docker  
-🗄️ PostgreSQL  
-⚡ FastAPI / Flask (backend frameworks)
+🏠 Home lab SIEM deployment<br/>
+🚩 CTF writeups and OverTheWire<br/>
+🐍 Python security tooling<br/>
 
 ## Highlights
 ### Spotlight Projects
-  - [Spotify Track Exporter Project](https://github.com/sharpishhh/spotify-track-exporter) — program that exports track info from Spotify playlists to CSV file 
-  - [Algorithms & DS Bench](https://github.com/sharpishhh/Learning-DSA) — curated problems with approaches, complexity notes, and tests
-  - [Logic & Arrays Practice](https://github.com/sharpishhh/Learning-Logic-and-Arrays) — warmups and patterns in Python  
-  
-
-<!-- <h2> Certifications</h2>
-
-- <b>Udemy</b>
-  - [Udemy Cert 1](URL) -->
- 
+- [AI Research Tool](https://github.com/sharpishhh/ai-research-tool) — AI-powered research app with recursive topic exploration, SQLite database, and OpenAI API integration
+- [Spotify Track Exporter](https://github.com/sharpishhh/spotify-track-exporter) — exports track info from Spotify playlists to CSV using the Spotify Web API
   
 <h2> 🤳 Connect with me:</h2>
 
