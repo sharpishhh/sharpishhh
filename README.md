@@ -1,22 +1,19 @@
 <div align="center">
   <img
-    alt="Hi, I'm Sarah!"
+    alt="Hi, I'm Sarah Sharp!"
     src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I%27m%20Sarah!&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4&animation=fadeIn&fontAlign=50&fontAlignY=40"
   />
 </div>
 
 <p align="center"> 
-  Software Developer & Cybersecurity Student · Austin, TX · US Army Veteran </p> 
+  Software Developer → DevSecOps · Army Veteran · Austin, TX </p> 
   
 <h2>About</h2> 
-Recent BBA in CIS with a Software Development concentration (Summa Cum Laude). 
-Transitioning into cybersecurity and DevSecOps with a focus on cloud environments 
-and security tooling. US Army veteran with a background in Python, REST APIs, and 
-independent project development.<br/>
+2025 CIS graduate (Summa Cum Laude) and US Army veteran, currently interning at Omni Federal as a Software Engineer. Background in Python, REST APIs, and independent project development - focused on DevSecOps and cloud security.<br/>
 &nbsp;<br/>
 
-- Now: CompTIA A+ exam prep, building cybersecurity portfolio projects, and interviewing for DevSecOps roles
-- Target roles: DevSecOps Engineer, Security Analyst, Cloud Security
+- Now: Software Engineer Intern at Omni Federal · CompTIA Security+ prep · building cybersecurity portfolio
+- Target roles: DevSecOps Engineer, Cloud Security, AppSec
 - Contact: sarah.sharpish@gmail.com • <a href="https://www.linkedin.com/in/sarah-sharp-ish/">LinkedIn</a>
 
 <h2>Tech:</h2>
@@ -49,8 +46,7 @@ independent project development.<br/>
       
 
 ### 📚 Learning Now
-🔐 CompTIA A+ (exam imminent)<br/>
-🛡️ CompTIA Security+ (next)<br/>
+🛡️ CompTIA Security+ prep<br/>
 ☁️ Cloud security fundamentals<br/>
 🔧 JavaScript / React (active)<br/>
 
