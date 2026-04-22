@@ -26,12 +26,26 @@ independent project development.<br/>
 
 💻 Python, SQL, Git, Linux, REST APIs, JavaScript (learning)
 <br/>
-        <p align="left">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=80 width=80  hspace=10/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height=80 width=80 hspace=10/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80 width=80 hspace=10/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 width=80 hspace=10/>
-        </p>
+        <table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80" width="80"/>
+      <br/>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="80" width="80"/>
+      <br/>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="80" width="80"/>
+      <br/>Linux
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80" width="80"/>
+      <br/>JavaScript
+    </td>
+  </tr>
+</table>
       
 
 ### 📚 Learning Now
